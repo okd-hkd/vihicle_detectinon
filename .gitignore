@@ -1,6 +1,12 @@
 .*/idea
 ./output/*
 ./venv/*
+.idea
+video12.mp4
+video15.mp4
+venv
+
+finalized_model.sav
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*

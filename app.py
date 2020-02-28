@@ -23,7 +23,7 @@ def post_json():
     
     elif request.method == "POST":
         
-        filename = flask.request.files.get('imagefile', '')
+        filename = app.request.files.get('imagefile', '')
             
         # filename = './video12.mp4'
         
